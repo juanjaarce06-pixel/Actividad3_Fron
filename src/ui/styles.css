@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --card-bg: 18 24 40; }
+html, body, #root { height: 100%; }
